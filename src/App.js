@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 // import PropTypes from 'prop-types';
 
+<<<<<<< HEAD
 // class App extends Component {
 //   render(){
 //     return(
@@ -34,6 +35,13 @@ const foodArray = [
     image: "https://www.placehold.it/300x300/bcd",
     id: 3,
     rating: 3.5
+=======
+class App extends Component {
+  render(){
+    return(
+      <h3>hello world! from notebook</h3>
+    )
+>>>>>>> 77d452af56c79a3ffad2e7ffa61692706c8facb8
   }
 ]
 
