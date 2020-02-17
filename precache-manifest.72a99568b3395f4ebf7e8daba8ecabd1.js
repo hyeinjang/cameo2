@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e37c239df4073e1fdb67ca89f228d7e6",
+    "revision": "25178c7b8c2189da0d882aaf847cf0d2",
     "url": "/cameo2/index.html"
   },
   {
