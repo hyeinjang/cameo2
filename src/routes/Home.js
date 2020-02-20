@@ -33,6 +33,7 @@ class Home extends React.Component {
             <span className="loader__text">Loading...</span>
           </div>
           ) : ( movies.map(movie => {
+            
             return(
               <Movie
               key={movie.id}
@@ -42,6 +43,7 @@ class Home extends React.Component {
               poster={movie.medium_cover_image}
               year={movie.year}
               genres={movie.genres}
+              posterLarge={movie.large_cover_image}
               ></Movie>
              )
            })
