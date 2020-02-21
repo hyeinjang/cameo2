@@ -21,7 +21,8 @@ nav ul li{
     
 }
 nav ul li:hover > a{
-    color: rgb(0, 222, 230);
+    color: rgba(189, 162, 240);
+    color: rgba(255,255,255,.9);
 }
 nav ul li a{
     color: #fff;
